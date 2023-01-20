@@ -5,3 +5,4 @@ Lib
 *.bmp
 *.cfg
 ./env
+./idea
